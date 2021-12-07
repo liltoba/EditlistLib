@@ -1,0 +1,6 @@
+C:\Users\Arshian\source\repos\EditlistLib\EditlistLib\bin\Release\EditlistLib.dll
+C:\Users\Arshian\source\repos\EditlistLib\EditlistLib\bin\Release\EditlistLib.pdb
+C:\Users\Arshian\source\repos\EditlistLib\EditlistLib\obj\Release\EditlistLib.csproj.AssemblyReference.cache
+C:\Users\Arshian\source\repos\EditlistLib\EditlistLib\obj\Release\EditlistLib.csproj.CoreCompileInputs.cache
+C:\Users\Arshian\source\repos\EditlistLib\EditlistLib\obj\Release\EditlistLib.dll
+C:\Users\Arshian\source\repos\EditlistLib\EditlistLib\obj\Release\EditlistLib.pdb
