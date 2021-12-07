@@ -1,6 +1,6 @@
 # EditlistLib
 This Library For Editing String Or Combolist
-![Screenshot 2021-10-01 201303](https://i.imgur.com/byZwKGn.jpg)
+![Screenshot 2021-10-01 201303](https://i.imgur.com/qAltDjw.jpg)
 
 # 🌀 Search And Replace
 ```csharp
