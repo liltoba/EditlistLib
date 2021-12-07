@@ -17,8 +17,7 @@ This Library For Editing String Or Combolist
 
 # 🌀 Search And Replace
 ```csharp
-     EditList.SearchAndReplace("this
-     test","test","new try");
+     EditList.SearchAndReplace("this test","test","new try");
 ```
 
 # 🌀 Email To User
